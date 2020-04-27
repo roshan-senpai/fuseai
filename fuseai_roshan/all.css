@@ -1,0 +1,28 @@
+.slide_heading {
+    text-shadow: 2px 2px black;
+    font-size: 100px;
+}
+
+.slide_subheading{
+    text-shadow: 2px 2px black;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.card{
+    margin: 50px 20px 20px 100px;
+    width: 35rem;
+}
+
+#view{
+    align-content: space-between;
+}
+
+#card_img{
+    width: 35rem;
+}
+
+.footer{
+    background-color:lightgrey;
+    margin-top: 20px;
+}
